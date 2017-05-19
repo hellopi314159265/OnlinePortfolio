@@ -1,0 +1,66 @@
+h1 {
+ color:white;
+}
+p { 
+color: #33ffcc;
+}
+/* .pics {
+  float: right;
+} */
+#About {
+  background-color:#0B3142;
+  width: 200px;
+  height: 50px;
+  opacity:0.65;
+  font-size: 25px;
+  font-family:Comic Sans MS;
+}
+h2 {
+ color:#66ffff;
+}
+
+#thing {
+    background-color: #034748; 
+   opacity: 0.6;
+  width: 400px;
+  height: 90px;
+  color: white;
+  font-family:Courier New;
+  }
+.intro {
+  background-color:#004E64;
+  width: 400px;
+  opacity:0.6;
+    height: 140px;
+}
+body {
+ background-image: url("http://theuiaa.org/wp-content/uploads/2016/08/mountain-protection-award-slider-1920x1000.jpg");
+  
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  opacity: 0.45;
+    overflow: hidden;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+a:hover:not(.active) {
+    background-color: #ff33bb;
+}
+
+.active {
+background-color: #66ff66 ;
+}
